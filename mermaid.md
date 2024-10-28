@@ -1,5 +1,5 @@
 # What Happens during a DDOS Attack
-##This mermaddagram was created to show what happens during a **DDOS** attack and why **Firewalls** are necessity.
+## This mermaddagram was created to show what happens during a **DDOS** attack and why **Firewalls** are necessity.
 ```mermaid
 sequenceDiagram
   participant Attacker
